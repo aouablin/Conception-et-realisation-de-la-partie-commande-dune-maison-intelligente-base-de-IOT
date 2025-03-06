@@ -9,8 +9,8 @@ Ce projet IoT vise à concevoir un système de commande pour une maison intellig
 - Deux modes sont disponibles :  
   - **Mode automatique** : Le ventilateur s'active/désactive en fonction de la température.  
   - **Mode manuel** : L’utilisateur peut allumer/éteindre le ventilateur depuis l’application **Arduino IoT Cloud Remote**.
-  - Arduino IoT Cloud : Plateforme cloud pour stocker et afficher les données  
-    Arduino IoT Cloud Remote : Application mobile pour surveiller et contrôler le système
+  - Arduino IoT Cloud : Plateforme cloud pour stocker et afficher les données. (https://app.arduino.cc/)
+  - Arduino IoT Cloud Remote : Application mobile pour surveiller et contrôler le système (disponible sur playstore)
 
 L’intégration avec l’application **Arduino IoT Cloud Remote** est automatisée par la plateforme, simplifiant la gestion du système.  
 ![image](https://github.com/user-attachments/assets/7b9df3a6-7f3f-4769-be74-99328f19b778)
