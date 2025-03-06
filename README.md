@@ -15,7 +15,8 @@ Ce projet IoT vise à concevoir un système de commande pour une maison intellig
 L’intégration avec l’application **Arduino IoT Cloud Remote** est automatisée par la plateforme, simplifiant la gestion du système.  
 
 
-🔌 Schéma de câblage:
+🔌**Schéma de câblage**:
+
 ![image](https://github.com/user-attachments/assets/7b9df3a6-7f3f-4769-be74-99328f19b778)
 
 
