@@ -1,4 +1,4 @@
-##**Conception et réalisation de la partie commande d’une maison intelligente basée sur l’IoT**
+## **Conception et réalisation de la partie commande d’une maison intelligente basée sur l’IoT**
 
 
 Ce projet IoT vise à concevoir un système de commande pour une maison intelligente en utilisant une carte **ESP32**, un capteur **DHT22** et un **relais** pour contrôler un ventilateur.  
@@ -14,7 +14,7 @@ Ce projet IoT vise à concevoir un système de commande pour une maison intellig
 L’intégration avec l’application **Arduino IoT Cloud Remote** est automatisée par la plateforme, simplifiant la gestion du système.  
 
 
-##🔌**Schéma de câblage**:
+## 🔌**Schéma de câblage**:
 
 ![image](https://github.com/user-attachments/assets/7b9df3a6-7f3f-4769-be74-99328f19b778)
 
@@ -33,7 +33,7 @@ Lors de la configuration sur **Arduino IoT Cloud**, les variables suivantes ont 
 Une fois configuré, les valeurs de température et d'humidité seront envoyées à **Arduino IoT Cloud** et affichées sur l’application **Arduino IoT Cloud Remote**.  
 
 
-##📸 **Exemples d'affichage** :  
+## 📸 **Exemples d'affichage** :  
 ![image](https://github.com/user-attachments/assets/374a836d-271b-4727-87fd-6e8b434294cd)
 
 
