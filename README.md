@@ -1,7 +1,4 @@
 **Conception et réalisation de la partie commande d’une maison intelligente basée sur l’IoT**
-
- 
- 📌 Description du projet:
 Ce projet IoT vise à concevoir un système de commande pour une maison intelligente en utilisant une carte **ESP32**, un capteur **DHT22** et un **relais** pour contrôler un ventilateur.  
 - Le capteur **DHT22** mesure la température et l'humidité ambiantes.  
 - L’ESP32 est un  Microcontrôleur Wi-Fi utilisé pour collecter et transmettre les données à la plateforme **Arduino IoT Cloud** .  
